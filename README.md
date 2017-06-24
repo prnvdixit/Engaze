@@ -15,7 +15,7 @@ If the above link is somehow not working - [Click here](https://youtu.be/cF7wHhn
 
 During the run, following suspicious images were found that were saved for the future reference
 
-[Suspicious Images](EnGaze/tree/master/suspicious_images)
+[Suspicious Images](https://github.com/prnvdixit/Engaze/tree/master/suspicious_images)
 
 ## Installation requirements :-
 	
